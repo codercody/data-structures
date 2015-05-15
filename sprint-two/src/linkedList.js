@@ -56,4 +56,5 @@ var Node = function(value){
  * Complexity: What is the time complexity of the above functions?
  */
 
- //O(1) for insertion/removal
+ //O(n) for insertion/removal without a reference
+ //0(1) if have a reference
